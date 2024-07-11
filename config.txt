@@ -1,0 +1,5 @@
+usr=xxxx
+pwd=xxxxx
+host=bedanalysis.bmi.emory.edu
+dir_waveform=/labs/hulab/UCSF/
+dir_output=./Output/
